@@ -74,7 +74,7 @@ The code works the same for ios and android but if you don't have a mac you can 
  	* cordova emulate android
 0. This should launch the emulator with the demo running, if everything is correct you should see something like this:
 
-	![app screenshot]()
+	![app screenshot](https://github.com/MeLoveLondon/app.test/blob/master/appscr.jpg)
 	
 It's better to get this out of the way now so you can run the actual app easily later. 
 
