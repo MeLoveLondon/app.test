@@ -13,13 +13,13 @@ The code works the same for ios and android but if you don't have a mac you can 
 0. Unpack The SDK, 
 	* go to <your-unpack-directory>/adt-bundle-windows-x8.../sdk/tools/
 	* double click the android file (this should open the Android SDK Manager)
-0. Install API 20 and the ARM system image (there's nothing special about these it's just an example)
 0. Go down to Android 4.4.2 (API 19)
 	* Install the SDK Platform
  	* ARM EABI system image
  	* Intel x86 atom system image
  	* Google APIs (ARM system image)
  	* Google APIs (x86 system image)
+ 	* Click install
  	* Wait a while
 0. In the SDK Manager window Go to Tools->Manage AVD's
 	* click create
