@@ -40,8 +40,8 @@ The code works the same for ios and android but if you don't have a mac you can 
 0. Install Apache Ant 
 	* Go to ant.apache.org, click on binary Distributions, scroll to Current Releases of ant and download apache-ant-1.9.4.bin.zip, and unpack it. If you can't find it try: http://www.us.apache.org/dist//ant/binaries/apache-ant-1.9.4-bin.zip
 	* Go to the command line and type:
-		 - set ANT_HOME=<the full path of the directory where you unpacked it (you can't delete it or move it after this)
-		 - set JAVA_HOME=<path of you jdk installation tends to be C:\Program Files\Java\jdk1...etc
+		 - set ANT_HOME= &lt;The full path of the directory where you unpacked it&gt;(you can't delete it or move it after this)
+		 - set JAVA_HOME=&lt;path of you jdk installation tends to be C:\Program Files\Java\jdk1...etc&gt;
 		 - set %PATH%;%ANT_HOME%\bin
 		 - check out this post which explains it: http://madhukaudantha.blogspot.cz/2010/06/installing-ant-for-windows-7.html
 		 - test that it's installed with running *ant -version*
