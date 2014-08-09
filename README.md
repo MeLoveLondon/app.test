@@ -78,4 +78,4 @@ The code works the same for ios and android but if you don't have a mac you can 
 	
 It's better to get this out of the way now so you can run the actual app easily later. 
 
-It's fine for the emulator to take a long time to boot, you might want to close everything else so it 
+It's fine for the emulator to take a long time to boot, you might want to close everything else so it has enough resources.
