@@ -63,7 +63,7 @@ The code works the same for ios and android but if you don't have a mac you can 
 	* change dir to testing 
 	* The source code is contained in the www folder 
 	* Delete everything in the www folder
-	* Download my repository from Github: url
+	* Download my repository from Github: https://github.com/MeLoveLondon/app.test/archive/master.zip (or click on the download ZIP button in the repo)
 	* Copy the contents of my test-www folder into your www folder under testing
 0. Go back to the testing folder in the command line *cd ..*
 0. Write in the command line:
