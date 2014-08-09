@@ -34,7 +34,7 @@ The code works the same for ios and android but if you don't have a mac you can 
 		- Leave SD card blank
 		- ok
 	* Click on test and click Start->Launch
-	* Wait for it to boot and you should have a working android emulator. See that it works and proceed to the next section
+	* Wait for it to boot and you should have a working android emulator. See that it works, close it, and proceed to the next section
 
 ######*Configuring Environmental Variables*
 0. Install Apache Ant 
