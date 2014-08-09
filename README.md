@@ -72,7 +72,7 @@ The code works the same for ios and android but if you don't have a mac you can 
  	* cordova plugin add org.apache.cordova.console
  	* cordova build android 
  	* cordova emulate android
-0. This should launch the emulator with the demo running, if everything is correct you should see something like this(except it should say android instead of ios :D):
+0. This should launch the emulator with the demo running, if everything is correct you should see something like this(except it should say android instead of ios :D) This means you can now run cordova to create apps from the sources:
 
 	![app screenshot](https://github.com/MeLoveLondon/app.test/blob/master/appscr.jpg)
 	
